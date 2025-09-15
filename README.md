@@ -1,5 +1,4 @@
-## Hi there 👋
-
+> Cannot read the properties of Obj (reading `sudo`)
 <!--
 **sudo-rm-sys/sudo-rm-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
